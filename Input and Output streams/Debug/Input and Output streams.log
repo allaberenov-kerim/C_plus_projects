@@ -1,0 +1,5 @@
+﻿  Input and Output streams.cpp
+C:\Users\user\source\repos\Hello, Wordl!\Input and Output streams\Input and Output streams.cpp(302,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\Hello, Wordl!\Input and Output streams\Input and Output streams.cpp(304,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\Hello, Wordl!\Input and Output streams\Input and Output streams.cpp(88): warning C4715: 'get_int': not all control paths return a value
+  Input and Output streams.vcxproj -> C:\Users\user\source\repos\Hello, Wordl!\Debug\Input and Output streams.exe

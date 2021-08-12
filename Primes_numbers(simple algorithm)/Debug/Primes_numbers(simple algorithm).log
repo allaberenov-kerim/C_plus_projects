@@ -1,0 +1,4 @@
+﻿  Primes_numbers(simple algorithm).cpp
+C:\Users\user\source\repos\Hello, Wordl!\Primes_numbers(simple algorithm)\Primes_numbers(simple algorithm).cpp(29,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\Hello, Wordl!\Primes_numbers(simple algorithm)\Primes_numbers(simple algorithm).cpp(33,20): warning C4018: '<': signed/unsigned mismatch
+  Primes_numbers(simple algorithm).vcxproj -> C:\Users\user\source\repos\Hello, Wordl!\Debug\Primes_numbers(simple algorithm).exe

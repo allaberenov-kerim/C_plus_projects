@@ -1,0 +1,4 @@
+﻿  Composed integer from digits.cpp
+C:\Users\user\source\repos\Hello, Wordl!\Composed integer from digits\Composed integer from digits.cpp(47,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\Hello, Wordl!\Composed integer from digits\Composed integer from digits.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+  Composed integer from digits.vcxproj -> C:\Users\user\source\repos\Hello, Wordl!\Debug\Composed integer from digits.exe

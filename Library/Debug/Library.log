@@ -1,0 +1,14 @@
+﻿  Library.cpp
+C:\Users\user\source\repos\Hello, Wordl!\Library\Library.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\user\source\repos\Hello, Wordl!\Library\Library.cpp(102,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\Hello, Wordl!\Library\Library.cpp(113,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\Hello, Wordl!\Library\Library.cpp(269,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\Hello, Wordl!\Library\Library.cpp(273,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\Hello, Wordl!\Library\Library.cpp(83): warning C4715: 'Book::is_issued': not all control paths return a value
+C:\Users\user\source\repos\Hello, Wordl!\Library\Library.cpp(127): warning C4715: 'Book::copyright_date_valid': not all control paths return a value
+C:\Users\user\source\repos\Hello, Wordl!\Library\Library.cpp(98): warning C4715: 'Book::ISBN_valid': not all control paths return a value
+C:\Users\user\source\repos\Hello, Wordl!\Library\Library.cpp(109): warning C4715: 'Book::title_valid': not all control paths return a value
+C:\Users\user\source\repos\Hello, Wordl!\Library\Library.cpp(120): warning C4715: 'Book::author_valid': not all control paths return a value
+C:\Users\user\source\repos\Hello, Wordl!\Library\Library.cpp(165): warning C4715: 'Patron::owe_fee': not all control paths return a value
+C:\Users\user\source\repos\Hello, Wordl!\Library\Library.cpp(261): warning C4715: 'Library::checked_out': not all control paths return a value
+  Library.vcxproj -> C:\Users\user\source\repos\Hello, Wordl!\Debug\Library.exe

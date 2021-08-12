@@ -1,0 +1,3 @@
+﻿  Header file.cpp
+Header file.obj : error LNK2001: unresolved external symbol "int a" (?a@@3HA)
+C:\Users\user\source\repos\Hello, Wordl!\Debug\Header file.exe : fatal error LNK1120: 1 unresolved externals

@@ -1,0 +1,9 @@
+﻿  Bulls and cows.cpp
+C:\Users\user\source\repos\Hello, Wordl!\Bulls and cows\Bulls and cows.cpp(13,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\Hello, Wordl!\Bulls and cows\Bulls and cows.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\Hello, Wordl!\Bulls and cows\Bulls and cows.cpp(49,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\Hello, Wordl!\Bulls and cows\Bulls and cows.cpp(62,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\Hello, Wordl!\Bulls and cows\Bulls and cows.cpp(64,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\Hello, Wordl!\Bulls and cows\Bulls and cows.cpp(76,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\Hello, Wordl!\Bulls and cows\Bulls and cows.cpp(78,21): warning C4018: '<': signed/unsigned mismatch
+  Bulls and cows.vcxproj -> C:\Users\user\source\repos\Hello, Wordl!\Debug\Bulls and cows.exe

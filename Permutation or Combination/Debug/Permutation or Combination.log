@@ -1,0 +1,4 @@
+﻿  Permutation or Combination.cpp
+C:\Users\user\source\repos\Hello, Wordl!\Permutation or Combination\Permutation or Combination.cpp(40,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\Hello, Wordl!\Permutation or Combination\Permutation or Combination.cpp(52): warning C4715: 'perm_comb': not all control paths return a value
+  Permutation or Combination.vcxproj -> C:\Users\user\source\repos\Hello, Wordl!\Debug\Permutation or Combination.exe

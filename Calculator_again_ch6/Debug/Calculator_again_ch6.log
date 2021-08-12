@@ -1,0 +1,4 @@
+﻿  Calculator.cpp
+C:\Users\user\source\repos\Hello, Wordl!\Calculator_again_ch6\Calculator.cpp(257,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\Hello, Wordl!\Calculator_again_ch6\Calculator.cpp(281): warning C4715: 'Symbol_table::get_value': not all control paths return a value
+  Calculator_again_ch6.vcxproj -> C:\Users\user\source\repos\Hello, Wordl!\Debug\Calculator_again_ch6.exe

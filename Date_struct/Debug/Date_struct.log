@@ -1,0 +1,5 @@
+﻿  Chrono.cpp
+C:\Users\user\source\repos\Hello, Wordl!\Date_struct\Chrono.cpp(352,7): warning C4101: 'result': unreferenced local variable
+C:\Users\user\source\repos\Hello, Wordl!\Date_struct\Chrono.cpp(163): warning C4715: 'Chrono::nmonth': not all control paths return a value
+C:\Users\user\source\repos\Hello, Wordl!\Date_struct\Chrono.cpp(367): warning C4715: 'Chrono::workday': not all control paths return a value
+  Date_struct.vcxproj -> C:\Users\user\source\repos\Hello, Wordl!\Debug\Date_struct.exe

@@ -1,0 +1,7 @@
+﻿  Numbers of Fibonachi.cpp
+C:\Users\user\source\repos\Hello, Wordl!\Numbers of Fibonachi\Numbers of Fibonachi.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\Hello, Wordl!\Numbers of Fibonachi\Numbers of Fibonachi.cpp(45,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\Hello, Wordl!\Numbers of Fibonachi\Numbers of Fibonachi.cpp(63,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\Hello, Wordl!\Numbers of Fibonachi\Numbers of Fibonachi.cpp(74,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\Hello, Wordl!\Numbers of Fibonachi\Numbers of Fibonachi.cpp(76,24): warning C4018: '<': signed/unsigned mismatch
+  Numbers of Fibonachi.vcxproj -> C:\Users\user\source\repos\Hello, Wordl!\Debug\Numbers of Fibonachi.exe
